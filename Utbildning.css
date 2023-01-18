@@ -1,0 +1,264 @@
+body{
+
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+.left{  
+
+    background-color: rgb(40, 36, 36);
+    width: 305px;
+    height: 970px;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.top{
+
+    background-color: rgb(138, 185, 182);
+    width: 100%;
+    height: 225px;
+    margin-left: 305px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.Elev{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px; 
+    
+}
+
+.image{
+    
+    width: 155px;
+    height: 155px;
+    object-position: fixed;
+    margin-top: 30px;
+    margin-left: 21.8%;
+
+}
+
+.Kevin{
+
+    margin-top: 10px;
+    margin-left: 20%;
+    color: white;
+    font-size: xx-large;
+
+}
+
+.ElevNTI{
+    
+    margin-top: -10px;
+    margin-left: 32%;
+    color: white;
+    font-size: larger;
+
+}
+
+.KevinGBG{
+    
+    position: fixed;
+    margin-top: 5px;
+    margin-left: 40px;
+    color: white;
+    font-size: medium;
+
+}
+
+.Kontakt{
+
+    margin-top: 80px;
+    margin-left: 60px;
+    color: white;
+    font-size: xx-large;
+
+}
+
+.Telefon{
+
+    position: fixed;
+    margin-top: -10px;
+    margin-left: 121px;
+    color: rgb(116, 116, 116);
+    font-size: large;
+    
+}
+
+.Nummer{
+
+    position: fixed;
+    margin-top: 25px;
+    margin-left: 90px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+
+}
+
+.Adress{
+
+    position: fixed;
+    margin-top: 70px;
+    margin-left: 120px;
+    color: rgb(116, 116, 116);
+    font-size: large;
+    
+}
+
+.Gata{
+
+    position: fixed;
+    margin-top: 105px;
+    margin-left: 69px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+
+}
+
+.Epost{
+
+    position: fixed;
+    margin-top: 150px;
+    margin-left: 100px;
+    color: rgb(116, 116, 116);
+    font-size: large;
+
+}
+
+.Gmail{
+
+    position: fixed;
+    margin-top: 186px;
+    margin-left: 45px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    
+}
+
+.white3{
+    
+    text-decoration: none; color: black
+   
+}
+
+.Me{
+
+    display: inline-block;
+    position: fixed;
+    margin-left: 37%;
+    margin-bottom: 1200px;
+    font-size: 60px;
+
+}
+
+.Erf{
+
+    display: inline-block;
+    position: fixed;
+    margin-left: 35%;
+    margin-bottom: 850px;
+    font-size: 60px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.Utb{
+
+    display: inline-block;
+    position: fixed;
+    margin-left: 35%;
+    margin-bottom: 500px;
+    font-size: 60px;
+
+}
+
+.Hem{
+
+    margin-left: 98px;
+    margin-top: 310px;
+    font-size: 60px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+.info13{
+
+    color:black;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.9;
+    text-align: center;
+    position: absolute;
+    left: -300px;
+    top: 205px;
+    width: 1500px;
+    height: 35px;
+    
+}
+
+.info14{
+    
+    color:black;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.9;
+    text-align: center;
+    position: absolute;
+    left: 320px;
+    top: 300px;
+    width: 1100px;
+    height: 35px;
+    z-index: 17;
+
+}
+
+.info15{
+
+    color:black;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.9;
+    text-align: center;
+    position: absolute;
+    left: -105px;
+    top: 405px;
+    width: 1500px;
+    height: 35px;
+    z-index: 17;
+    
+}
+
+.info16{
+    
+    color:black;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.9;
+    text-align: center;
+    position: absolute;
+    left: 340px;
+    top: 500px;
+    width: 1100px;
+    height: 35px;
+    z-index: 17;
+
+}
